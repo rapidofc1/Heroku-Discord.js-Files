@@ -8,3 +8,5 @@ Fork this repository.
 Paste your bot code into "bot.js".
 
 Connect GitHub to your Heroku account.
+
+Deploy code from your forked copy.
